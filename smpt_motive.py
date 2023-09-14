@@ -12,7 +12,7 @@ print(today)
 #
 
 my_email = "emmanuelmenuwe078@gmail.com"
-password = "vsqhldhyrtaymurc"
+password = "YOUR-APP-PASSWORD"
 receiver = "emmanuelmenuwe078@gmail.com"
  
 body = f"HERE IS {today} MOTIVATIONAL QUOTE {random.choice(quotes)}"
